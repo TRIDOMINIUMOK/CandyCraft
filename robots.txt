@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /sets/
+Disallow: /schema.js
+
+Allow: /
+
+Sitemap: https://yourdomain.com/sitemap.xml
