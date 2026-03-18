@@ -4,4 +4,4 @@ Disallow: /schema.js
 
 Allow: /
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://tridominiumok.github.io/CandyCraft/sitemap.xml
